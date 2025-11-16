@@ -185,30 +185,7 @@
 
 
 ### PROJECTS AND DEV STUFF
-<b>⚡ Github Stats</b>
-    <br />
-    <!-- <p align="center">
-        <a href="https://github.com/aideveloper518?tab=repositories">
-            <img width="54%" height="150em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=aideveloper518&theme=gotham&show_icons=true&hide_border=true&include_all_commits=true&count_private=true" />
-            <img width="45%" height="150em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=aideveloper518&theme=gotham&exclude_repo=KNN-Image-Classification&show_icons=true&hide_border=true&layout=compact"/>
-        </a>
-    </p> -->
-    <p>
-  <a href="https://github.com/aideveloper518" target="_blank" rel="noopener noreferrer">
-    <img
-      height="180em"
-      src="https://satoshj-readme-state.vercel.app/api?username=aideveloper518&hide=contribs&show_icons=true&count_private=true&include_all_commits=true&disable_animations=false&hide_border=true&bg_color=FFFFFF00&text_color=05CCB2&icon_color=FFFFFF&title_color=FFFFFF"
-      alt='github-stats'
-    />
-    <img
-      height="180em"
-      src="https://satoshj-readme-state.vercel.app/api/top-langs?username=aideveloper518&show_icons=true&langs_count=8&layout=compact&hide_border=true&bg_color=FFFFFF00&text_color=05CCB2&icon_color=FFFFFF&title_color=FFFFFF"
-      alt='github-stats-toplangs'
-    />
-  </a>
-</p>
 
-</p>
 
 <b>☄️ Github Streaks</b>
   
